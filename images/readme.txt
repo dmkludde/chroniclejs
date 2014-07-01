@@ -1,0 +1,1 @@
+Save your chronicle page to this folder. Ensure you have an exactly full-page copy of the chronicle as a .png
