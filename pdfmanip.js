@@ -20,7 +20,7 @@ var pagewidth = 620; //That's how big a page seems to be
 
 //Define two json files that contain information on chronicles (where to fill out boxes), and event info
 var cfile = './chronicleData.json';
-var evfile = './eventAndPlayerData.json';
+var evfile = './eventData/' + process.argv[2] + '.json';
 
 fs.readFile(cfile, 'utf8', function (err, data) {   //First read the chronicle file
     if (err) {
@@ -99,6 +99,12 @@ function createRasterPDF(cdat, evdat, pdat) {
         var gpboxes = cdat.tiergoldboxes[i];
         drawBox(doc, gpboxes)
     }
+    if (cdat.gminitial) {
+        for (var i=0; i<cdat.gminitial.length; ++i){
+                writeLineBox(doc, evdat.gmsig, cdat.gminitial[i]);
+        }
+    }
+
    
     if(cdat.xpbox) { writeLine(doc, '1', cdat.xpbox) }
     writeLineBox(doc, pdat.pp, cdat.ppbox)
@@ -113,13 +119,13 @@ function createPDF(cdat, evdat, pdat){
     // Create a document
     doc = new PDFDocument();
     // Pipe it's output somewhere, like to a file or HTTP response
-    doc.pipe(fs.createWriteStream('out/' + evdat.eventname + '/' + evdat.scenario + '-' + pdat.charname + '.pdf'));
+    doc.pipe(fs.createWriteStream('out/' + evdat.eventname + '-' + evdat.scenario + '-' + pdat.charname + '.pdf'));
     doc.addPage({margins: {top:0, bottom:0}});
     doc.lineJoin('round')
 	.lineWidth(2)
 	.strokeColor('red')
     doc.image(cdat.imagename,0,0, {width : pagewidth})
-	.fontSize(14)
+	.fontSize(12)
 
     var gpboxes = cdat.tiergoldboxes[pdat.tier];
     
@@ -136,14 +142,37 @@ function createPDF(cdat, evdat, pdat){
     writeLine(doc, evdat.gmsig, cdat.gmsig)
     writeLine(doc, evdat.gmpfs, cdat.gmpfs)
     
-    if(cdat.xpbox) { writeLine(doc, '1', cdat.xpbox) }
+    if(cdat.xpbox) { 
+        if(pdat.xp) {
+            writeLine(doc, pdat.xp, cdat.xpbox)
+        }
+        else {
+            writeLine(doc, '1', cdat.xpbox) 
+        }
+    }
+    if(pdat.comment) {
+        if (cdat.commentbox) {
+            writeLine(doc, pdat.comment, cdat.commentbox)
+        }
+    
+    }
+    
+    
+
     writeLine(doc, pdat.pp, cdat.ppbox)
     writeLine(doc, pdat.gp, cdat.gpbox)
     writeLine(doc, pdat.dj, cdat.djbox)
     writeLine(doc, pdat.dj + ' GP from day job', cdat.djannotation);
-    
+
+    doc.fontSize(8);
+    if (cdat.gminitial) {
+        for (var i=0; i<cdat.gminitial.length; ++i){
+                writeLine(doc, evdat.gmsig, cdat.gminitial[i]);
+        }
+    }
+
     for (var i=0; i< pdat.crossouts.length; ++i){
-	drawFillBox(doc, cdat.crossouts[pdat.crossouts[i]]);
+	   drawFillBox(doc, cdat.crossouts[pdat.crossouts[i]]);
     }
 
     // Finalize PDF file

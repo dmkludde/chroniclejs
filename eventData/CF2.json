@@ -1,0 +1,90 @@
+{
+    "eventData" : {
+	"eventname" : "DMK PBP",
+	"scenario" : "S05E08",
+	"eventcode" : "36581",
+	"date" : "06/08/2014",
+	"gmsig" : "DMK",
+	"gmpfs" : "108716"
+    },
+    "playerData" : [
+	{   
+        "player" : "caps",
+        "charname" : "Arion Duvamil",
+        "number" : "137974",
+        "charnumber" : "4",
+        "faction" : "GL",
+        "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "430",
+	    "dj" : "10",
+	    "crossouts" : []
+	},
+    {    
+        "player" : "",
+        "charname" : "Aaziroth",
+        "number" : "106385",
+        "charnumber" : "3",
+        "faction" : "V",
+        "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "430",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+    {   
+        "player" : "",
+        "charname" : "Eloisa Fairclough",
+        "number" : "55921",
+        "charnumber" : "10",
+        "faction" : "GL",
+        "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "430",
+	    "dj" : "20",
+	    "crossouts" : []
+	},
+    {   
+        "player" : "",
+        "charname" : "Darius Skullcrusher",
+        "number" : "119407",
+        "charnumber" : "11",
+        "faction" : "C",
+        "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "430",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+    {   
+        "player" : "",
+        "charname" : "Danu 'Strong Mad'",
+        "number" : "12663",
+        "charnumber" : "5",
+        "faction" : "GL",
+        "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "430",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+    {   
+        "player" : "",
+        "charname" : "Hisao",
+        "number" : "125190",
+        "charnumber" : "3",
+        "faction" : "O",
+        "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "430",
+	    "dj" : "0",
+	    "crossouts" : []
+	}          
+    ]
+}

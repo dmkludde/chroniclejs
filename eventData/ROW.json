@@ -1,0 +1,78 @@
+{
+    "eventData" : {
+	"eventname" : "PbP GD2",
+	"scenario" : "AP67",
+	"eventcode" : "41401",
+	"date" : "4/7/2014",
+	"gmsig" : "AGF",
+	"gmpfs" : "108716-4"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "DMRaven",
+    	    "charname" : "Kezia Talinathe",
+    	    "number" : "127667",
+    	    "charnumber" : "1",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "4",
+        "xp" : "3",
+	    "gp" : "1398",
+	    "dj" : "50",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Merck",
+    	    "charname" : "Variel Arivae",
+    	    "number" : "35561",
+    	    "charnumber" : "7",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "4",
+        "xp" : "3",
+	    "gp" : "1398",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Magabeus",
+    	    "charname" : "Ketill",
+    	    "number" : "24861",
+    	    "charnumber" : "7",
+    	    "faction" : "A",
+    	    "tier" : 0,
+	    "pp" : "4",
+        "xp" : "3",
+	    "gp" : "1398",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Ryckyrych",
+    	    "charname" : "Joesef Deadwillow",
+    	    "number" : "79644",
+    	    "charnumber" : "20",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "4",
+        "xp" : "3",
+	    "gp" : "1398",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Broken Prince",
+    	    "charname" : "Nelwin Magmaglow",
+    	    "number" : "113331",
+    	    "charnumber" : "11",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "4",
+        "xp" : "3",
+	    "gp" : "1398",
+	    "dj" : "0",
+	    "crossouts" : []
+    }                              
+               
+    ]
+}

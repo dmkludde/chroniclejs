@@ -1,0 +1,79 @@
+{
+    "eventData" : {
+	"eventname" : "PbP GD2",
+	"scenario" : "S05E21",
+	"eventcode" : "41401",
+	"date" : "4/7/2014",
+	"gmsig" : "AGF",
+	"gmpfs" : "108716-2"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "Pedwiddle",
+    	    "charname" : "Cressyk Shadowscar",
+    	    "number" : "70085",
+    	    "charnumber" : "6",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "514",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Glenn Hembree",
+    	    "charname" : "Marra follower of dawnflower",
+    	    "number" : "11016",
+    	    "charnumber" : "3",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "514",
+	    "dj" : "20",
+	    "crossouts" : [],
+        "boon" : "TBD"
+	},
+	{   
+    	    "player" : "Cwalk89",
+    	    "charname" : "Malena Antonescu",
+    	    "number" : "86224",
+    	    "charnumber" : "3",
+    	    "faction" : "C",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "514",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Rhanloi Ehlyss",
+    	    "charname" : "Rhanloi",
+    	    "number" : "83583",
+    	    "charnumber" : "1",
+    	    "faction" : "V",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "514",
+	    "dj" : "75",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Broken Prince",
+    	    "charname" : "Nelwin Magmaglow",
+    	    "number" : "113331",
+    	    "charnumber" : "11",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "4",
+        "xp" : "3",
+	    "gp" : "1398",
+	    "dj" : "0",
+	    "crossouts" : []
+    }                              
+               
+    ]
+}

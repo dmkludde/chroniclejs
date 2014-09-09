@@ -1,0 +1,78 @@
+{
+    "eventData" : {
+	"eventname" : "DMK PBP",
+	"scenario" : "S05E19",
+	"eventcode" : "36581",
+	"date" : "30/7/2014",
+	"gmsig" : "DMK",
+	"gmpfs" : "108716"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "RyckyRych",
+    	    "charname" : "Narvik Drak",
+    	    "number" : "79644",
+    	    "charnumber" : "6",
+    	    "faction" : "O",
+    	    "tier" : 2,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "1847",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+    {   
+    	    "player" : "Cyril Corbaz",
+    	    "charname" : "Rysalius",
+    	    "number" : "76446",
+    	    "charnumber" : "2",
+    	    "faction" : "T",
+    	    "tier" : 2,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "1847",
+	    "dj" : "50",
+	    "crossouts" : []
+	},
+    {   
+    	    "player" : "Pedwiddle",
+    	    "charname" : "Castien Galondiir",
+    	    "number" : "70085",
+    	    "charnumber" : "8",
+    	    "faction" : "GL",
+    	    "tier" : 1,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "1179",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+    {   
+    	    "player" : "Magabeus",
+    	    "charname" : "Eolowyn",
+    	    "number" : "24861",
+    	    "charnumber" : "3",
+    	    "faction" : "A",
+    	    "tier" : 2,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "1847",
+	    "dj" : "10",
+	    "crossouts" : []
+	},
+    {   
+    	    "player" : "Derek Well",
+    	    "charname" : "Todric Callaster",
+    	    "number" : "85794",
+    	    "charnumber" : "7",
+    	    "faction" : "A",
+    	    "tier" : 1,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "1179",
+	    "dj" : "5",
+	    "crossouts" : []
+	}
+               
+    ]
+}

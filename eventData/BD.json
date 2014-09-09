@@ -1,0 +1,97 @@
+{
+    "eventData" : {
+	"eventname" : "DMK PBP",
+	"scenario" : "S02E01",
+	"eventcode" : "36581",
+	"date" : "14/7/2014",
+	"gmsig" : "DMK",
+	"gmpfs" : "108716"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "",
+    	    "charname" : "Anara Resario",
+    	    "number" : "96302",
+    	    "charnumber" : "3",
+    	    "faction" : "A",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "506",
+	    "dj" : "20",
+	    "crossouts" : [1,3,4],
+        "comment": "8"
+	},
+	{   
+    	    "player" : "",
+    	    "charname" : "Lunaea Moonstruck",
+    	    "number" : "118424",
+    	    "charnumber" : "2",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "506",
+	    "dj" : "0",
+	    "crossouts" : [1,3,4],
+        "comment": "8"
+	},
+	{   
+    	    "player" : "",
+    	    "charname" : "Brodey",
+    	    "number" : "43188",
+    	    "charnumber" : "4",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "506",
+	    "dj" : "10",
+	    "crossouts" : [1,3,4],
+        "comment": "8"
+	},
+	{   
+    	    "player" : "",
+    	    "charname" : "Kelsier Palance",
+    	    "number" : "137974",
+    	    "charnumber" : "2",
+    	    "faction" : "A",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "506",
+	    "dj" : "1",
+	    "crossouts" : [1,3,4],
+        "comment": "8"
+	},
+	{   
+    	    "player" : "",
+    	    "charname" : "Oleander Anwamane",
+    	    "number" : "100387",
+    	    "charnumber" : "9",
+    	    "faction" : "Q",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "506",
+	    "dj" : "5",
+	    "crossouts" : [1,3,4],
+        "comment": "8"
+    },
+	{   
+    	    "player" : "",
+    	    "charname" : "Tyraneus",
+    	    "number" : "95737",
+    	    "charnumber" : "1",
+    	    "faction" : "V",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "506",
+	    "dj" : "0",
+	    "crossouts" : [1,3,4],
+        "comment": "8"
+    }                              
+               
+    ]
+}

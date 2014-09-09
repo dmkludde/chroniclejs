@@ -1,0 +1,66 @@
+{
+    "eventData" : {
+	"eventname" : "DMK PbP",
+	"scenario" : "S05E07",
+	"eventcode" : "36581",
+	"date" : "30/7/2014",
+	"gmsig" : "AGF",
+	"gmpfs" : "108716-2"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "Deane Beman",
+    	    "charname" : "Aleister Marlowe",
+    	    "number" : "6919",
+    	    "charnumber" : "5",
+    	    "faction" : "O",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "2535",
+	    "dj" : "0",
+	    "crossouts" : [1,2,5]
+	},
+	{   
+    	    "player" : "Gerald",
+    	    "charname" : "Shel Whispertongue",
+    	    "number" : "12445",
+    	    "charnumber" : "3",
+    	    "faction" : "T",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "2535",
+	    "dj" : "20",
+	    "crossouts" : [1,2,3,5],
+        "boon" : "TBD"
+	},
+	{   
+    	    "player" : "Merck",
+    	    "charname" : "Fredrik Greymantle",
+    	    "number" : "35561",
+    	    "charnumber" : "1",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "2535",
+	    "dj" : "0",
+	    "crossouts" : [1,2,3,5]
+	},
+	{   
+    	    "player" : "Nik. B",
+    	    "charname" : "'Blackjack' Jacques",
+    	    "number" : "41662",
+    	    "charnumber" : "6",
+    	    "faction" : "V",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "2535",
+	    "dj" : "10",
+	    "crossouts" : [1,2,3,5]
+	}                              
+               
+    ]
+}

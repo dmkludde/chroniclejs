@@ -1,0 +1,73 @@
+{
+    "eventData" : {
+	"eventname" : "PbP GD2",
+	"scenario" : "S02E15",
+	"eventcode" : "41401",
+	"date" : "4/7/2014",
+	"gmsig" : "AGF",
+	"gmpfs" : "108716-1"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "Werepox47",
+    	    "charname" : "Roary Flamebearer",
+    	    "number" : "45225",
+    	    "charnumber" : "1",
+    	    "faction" : "T",
+    	    "tier" : 1,
+	    "pp" : "2",
+	    "gp" : "1177",
+	    "dj" : "50",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "jamie noone",
+    	    "charname" : "Random Derrick",
+    	    "number" : "80181",
+    	    "charnumber" : "3",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "500",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "Arythain",
+    	    "charname" : "Torrian Ath",
+    	    "number" : "134491",
+    	    "charnumber" : "1",
+    	    "faction" : "Z",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "500",
+	    "dj" : "0",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "rpdjoker",
+    	    "charname" : "Remus the Imperious",
+    	    "number" : "131873",
+    	    "charnumber" : "27",
+    	    "faction" : "Z",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "500",
+	    "dj" : "10",
+	    "crossouts" : []
+	},
+	{   
+    	    "player" : "McScrewGunn",
+    	    "charname" : "Kynn",
+    	    "number" : "134195",
+    	    "charnumber" : "1",
+    	    "faction" : "Z",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "500",
+	    "dj" : "0",
+	    "crossouts" : []
+	}                              
+               
+    ]
+}

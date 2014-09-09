@@ -1,0 +1,78 @@
+{
+    "eventData" : {
+	"eventname" : "DMK PbP",
+	"scenario" : "S05E22",
+	"eventcode" : "36581",
+	"date" : "13/8/2014",
+	"gmsig" : "DMK",
+	"gmpfs" : "108716"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "Pedwiddle",
+    	    "charname" : "Cressyk Shadowscar",
+    	    "number" : "70085",
+    	    "charnumber" : "6",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "510",
+	    "dj" : "0",
+	    "crossouts" : [0,1]
+	},
+	{   
+    	    "player" : "Glenn Hembree",
+    	    "charname" : "Marra follower of dawnflower",
+    	    "number" : "11016",
+    	    "charnumber" : "3",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "510",
+	    "dj" : "1",
+	    "crossouts" : [0,1],
+        "boon" : "TBD"
+	},
+	{   
+    	    "player" : "Cwalk89",
+    	    "charname" : "Malena Antonescu",
+    	    "number" : "86224",
+    	    "charnumber" : "3",
+    	    "faction" : "C",
+    	    "tier" : 0,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "510",
+	    "dj" : "0",
+	    "crossouts" : [0,1]
+	},
+	{   
+    	    "player" : "Rhanloi Ehlyss",
+    	    "charname" : "Rhanloi",
+    	    "number" : "83583",
+    	    "charnumber" : "1",
+    	    "faction" : "V",
+    	    "tier" : 1,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "1185",
+	    "dj" : "20",
+	    "crossouts" : [1]
+	},
+    {   
+        "player" : "Cyril Corbaz",
+        "charname" : "Aetherys Dawnblade",
+        "number" : "76446",
+        "charnumber" : "6",
+        "faction" : "Q",
+        "tier" : 1,
+	    "pp" : "2",
+        "xp" : "1",
+	    "gp" : "1185",
+	    "dj" : "10",
+	    "crossouts" : [0,1]
+	}
+    ]
+}

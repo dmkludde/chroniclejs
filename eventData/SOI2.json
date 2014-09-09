@@ -1,0 +1,61 @@
+{
+    "eventData" : {
+	"eventname" : "DMK PbP",
+	"scenario" : "S02E17",
+	"eventcode" : "36581",
+	"date" : "14/8/2014",
+	"gmsig" : "DMK",
+	"gmpfs" : "108716"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "Werepox47",
+    	    "charname" : "Roary Flamebearer",
+    	    "number" : "45225",
+    	    "charnumber" : "1",
+    	    "faction" : "T",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "1187",
+	    "dj" : "50",
+	    "crossouts" : [0]
+	},
+	{   
+    	    "player" : "jamie noone",
+    	    "charname" : "Random Derrick",
+    	    "number" : "80181",
+    	    "charnumber" : "3",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "503",
+	    "dj" : "0",
+	    "crossouts" : [0]
+	},
+	{   
+    	    "player" : "Arythain",
+    	    "charname" : "Torrian Ath",
+    	    "number" : "134491",
+    	    "charnumber" : "1",
+    	    "faction" : "Z",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "503",
+	    "dj" : "0",
+	    "crossouts" : [0]
+	},
+	{   
+    	    "player" : "McScrewGunn",
+    	    "charname" : "Kynn",
+    	    "number" : "134195",
+    	    "charnumber" : "1",
+    	    "faction" : "Z",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "503",
+	    "dj" : "0",
+	    "crossouts" : [0]
+	}                              
+               
+    ]
+}

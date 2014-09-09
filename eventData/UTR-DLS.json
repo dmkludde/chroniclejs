@@ -1,0 +1,60 @@
+{
+    "eventData" : {
+	"eventname" : "Utrecht PFS",
+	"scenario" : "S02E21",
+	"eventcode" : "36581",
+	"date" : "10/6/2014",
+	"gmsig" : "AGF",
+	"gmpfs" : "108716"
+    },
+    "playerData" : [
+	{   
+    	    "player" : "",
+    	    "charname" : "Tsuiseki",
+    	    "number" : "117922",
+    	    "charnumber" : "1",
+    	    "faction" : "Q",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "501",
+	    "dj" : "0",
+	    "crossouts" : [1,2]
+	},
+	{   
+    	    "player" : "",
+    	    "charname" : "Osborn",
+    	    "number" : "114586",
+    	    "charnumber" : "2",
+    	    "faction" : "GL",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "501",
+	    "dj" : "0",
+	    "crossouts" : [1,2]
+	},
+	{   
+    	    "player" : "",
+    	    "charname" : "Taliss",
+    	    "number" : "117917",
+    	    "charnumber" : "2",
+    	    "faction" : "V",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "501",
+	    "dj" : "0",
+	    "crossouts" : [1,2]
+	},
+	{   
+    	    "player" : "",
+    	    "charname" : "Deshmiri",
+    	    "number" : "124000",
+    	    "charnumber" : "1",
+    	    "faction" : "A",
+    	    "tier" : 0,
+	    "pp" : "2",
+	    "gp" : "501",
+	    "dj" : "0",
+	    "crossouts" : [1,2]
+	}               
+    ]
+}
